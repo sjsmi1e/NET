@@ -1,10 +1,10 @@
 # BIO模型
 
-![1563781553368](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563781553368.png)
+![1563781553368](//wx4.sinaimg.cn/mw690/006Al9Egly1g58ommhvqpj30bv068gm7.jpg)
 
 # NIO模型
 
-![1563782342379](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1563782342379.png)
+![1563782342379](//wx1.sinaimg.cn/mw690/006Al9Egly1g58ommkhxej30ih0djdh8.jpg)
 
 # AIO模型
 
